@@ -1,0 +1,33 @@
+{
+  "books" : [ null, null, {
+    "judul" : "A-Z Psikologi : Berbagai kumpulan topik Psikologi",
+    "pengarang" : "Zainul Anwar"
+  }, {
+    "judul" : "Mencari identitas kebangsaan",
+    "pengarang" : "Nasruddin Anshoriy"
+  }, {
+    "judul" : "Cedera Kepala",
+    "pengarang" : "M. Z. Arifin"
+  }, {
+    "judul" : "Politik Pengamanan Politik Zaman Kolonial",
+    "pengarang" : "Takashi Shiraishi"
+  }, {
+    "judul" : "Makna Budaya Dalam Komunikasi Antar Budaya",
+    "pengarang" : "Alo Liliweri"
+  }, {
+    "judul" : "Menuju Puncak Kemegahan",
+    "pengarang" : "Slamet Muljana"
+  }, {
+    "judul" : "Otoritas Sunnah Non-Tasyri’iyyah menurut Yusuf Al-Qaradhawi",
+    "pengarang" : "Tarmizi M. Jakfar"
+  }, {
+    "judul" : "Pengantar Studi Al-Quran : Teori dan Pendekatan",
+    "pengarang" : "Munzir Hitami"
+  }, {
+    "judul" : "Runtuhnya Kerajaan Hindu Jawa",
+    "pengarang" : "Slamet Muljana"
+  }, {
+    "judul" : "Strategic Management",
+    "pengarang" : "Sofjan Assauri"
+  } ]
+}
